@@ -1,4 +1,4 @@
-# Aplicación Contador Android
+# EJERCICIO 1: Aplicación Contador Android
 
 Esta es una simple aplicación contador desarrollada en Android Studio. Permitiría realizar operaciones de incremento, reinicio y decremento.
 
